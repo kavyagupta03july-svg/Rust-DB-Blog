@@ -1,0 +1,17 @@
+{
+  "name": "NextGen Tech – RustDB & Future Technology Blog",
+  "short_name": "NextGen RustDB",
+  "description": "Explore RustDB storage internals, live animated code execution, 3D WebGL visualizations, and systems architecture research.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

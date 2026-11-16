@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /articles/
+Allow: /playground
+Allow: /css-lab
+Allow: /rustdb
+
+Sitemap: https://nextgentech.dev/sitemap.xml

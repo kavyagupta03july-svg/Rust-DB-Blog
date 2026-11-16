@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Tech – Explore the Future of Technology",
+  "description": "A futuristic engineering publication featuring 3D spatial visualizations, an interactive coding playground, a CSS animation lab, and deep-dive RustDB systems research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
